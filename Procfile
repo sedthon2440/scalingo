@@ -1,2 +1,2 @@
-web: bash zilzal
-worker: python3 -m zelz
+web: python -m http.server $PORT
+worker: bash zilzal
