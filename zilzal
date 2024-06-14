@@ -1,4 +1,4 @@
-git clone https://github.com/Ahmedhhhhhgg/ZTZ ZELZAL
+git clone https://github.com/ZTScalingo/ZTZ ZELZAL
 cd ZELZAL
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
