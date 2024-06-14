@@ -1,6 +1,6 @@
 {
     "name": "Source ZThon",
-    "description": "تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو ^_* افضـل سـورسـات يـوزربـوت العربيـة : › عربـي بالكـامل › تحديثـات متواصـله › قنـاة السـورس ZThon@",
+    "description": "تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو ^_* افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
     "keywords": ["zthon", "userbot","scalingo"],
     "repository": "https://github.com/ZTScalingo/scalingo",
