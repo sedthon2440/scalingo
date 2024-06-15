@@ -1,2 +1,2 @@
-##  🔗 Deploy ZThon Source On Scalingo :
+##  🔗 Deploy ZThon On Scalingo :
 This Code Based By [ZThon](https://t.me/ZThon)
