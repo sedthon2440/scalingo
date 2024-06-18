@@ -1,4 +1,4 @@
-git clone https://github.com/sedthon2440/Matrixer BeLaL
+git clone https://github.com/sedthon2440/Matrixer BiLaL
 cd BiLaL
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
